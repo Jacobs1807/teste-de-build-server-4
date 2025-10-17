@@ -8,7 +8,7 @@ function App() {
 
   return (
     <>
-      <h1>Teste de implantação do front</h1>
+      <h1>Artur é um cocozao</h1>
     </>
   )
 }
